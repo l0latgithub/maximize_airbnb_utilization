@@ -8,7 +8,9 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code.  The code should run with no issues using Python versions 3.*.
+This notebook requires to install category-encoders (https://contrib.scikit-learn.org/category_encoders/) if you have not.
+
+pip install category-encoders
 
 ## Project Motivation<a name="motivation"></a>
 
