@@ -34,4 +34,4 @@ The main findings of the code can be found at the post available [here](https://
 
 Must give credit to http://insideairbnb.com/ for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](http://insideairbnb.com/about.html#disclaimers).  Otherwise, feel free to use the code here as you would like! 
 
-A customized LabelEncoder was used from https://www.kaggle.com/garethjns at [here] (https://www.kaggle.com/garethjns/titanicsexism-fairness-in-ml).
+A customized LabelEncoder was used from https://www.kaggle.com/garethjns at [here](https://www.kaggle.com/garethjns/titanicsexism-fairness-in-ml).
