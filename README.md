@@ -1,6 +1,9 @@
-# Welcome to GitHub
+# How to maximize utilization of your Airbnb
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+As an Airbnb user, I am very curious about the utilization rate and profitability of Airbnb. Fortunately, http://insideairbnb.com/ published some Airbnb data across the globe and it would help me to answer my own questions about Airbnb.
+What is key features to get high utilization?
+What can owner do to improve utilization?
+How to grow utilization for fresh Airbnb host?
 
 ## Repositories
 
