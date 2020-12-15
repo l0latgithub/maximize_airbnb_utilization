@@ -15,7 +15,9 @@ There should be no necessary libraries to run the code.  The code should run wit
 As an Airbnb user, I am very curious about the utilization rate and profitability of Airbnb. Fortunately, http://insideairbnb.com/ published some Airbnb data across the globe and it would help me to answer my own questions about Airbnb.
 
 1.What is key features to get high utilization?
+
 2. What can owner do to improve utilization?
+
 3. How to grow utilization for fresh Airbnb host?
 
 ## File Descriptions <a name="files"></a>
