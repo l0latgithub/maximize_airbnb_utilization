@@ -12,6 +12,18 @@ This notebook requires to install category-encoders (https://contrib.scikit-lear
 
 pip install category-encoders
 
+Need to install a few packages to plot Boston Airbnb data on map and geoplot installation issue could refer to [here](https://github.com/googlecolab/colabtools/issues/85).
+shapely needs to be reinstalled to use the same geos install as cartopy as [here](https://github.com/SciTools/cartopy/issues/871)
+
+pip install geopandas
+pip install mplleaflet
+!apt-get install libproj-dev proj-bin proj-data
+!apt-get install libgeos-dev
+!pip uninstall -y shapely
+!pip install --no-binary shapely shapely
+!pip install cartopy
+pip install geoplot
+
 ## Project Motivation<a name="motivation"></a>
 
 As an Airbnb user, I am very curious about the utilization rate and profitability of Airbnb host. Thankfully, http://insideairbnb.com/ published some Airbnb data across the globe and it would help me to answer my own questions about Airbnb.
