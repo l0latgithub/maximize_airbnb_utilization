@@ -26,7 +26,7 @@ As an Airbnb user, I am very curious about the utilization rate and profitabilit
 
 There are 2 notebooks available here to showcase work related to the above questions.
 
-1.
+1. airbnb-github-v01.ipynb
 
 2.
 
