@@ -24,7 +24,11 @@ As an Airbnb user, I am very curious about the utilization rate and profitabilit
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebooks available here to showcase work related to the above questions.
+There are 2 notebooks available here to showcase work related to the above questions.
+
+1.
+
+2.
 
 ## Results<a name="results"></a>
 
