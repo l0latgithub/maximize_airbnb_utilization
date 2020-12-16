@@ -46,9 +46,9 @@ As an Airbnb user, I am very curious about the utilization rate and profitabilit
 
 There are 2 notebooks available here to showcase work related to the above questions.
 
-1. airbnb-github-v01.ipynb illustrates the large discrepancy of Airbnb host revenue even in similar location, athough property might have large differences. This leads to our focus: how to improve the occupancy rate for Airbnb host to increase revenue and profit 
+1. boston_airbnb_plot.ipynb illustrates the large discrepancy of Airbnb host revenue even in similar location, athough property might have large differences. This leads to our focus: how to improve the occupancy rate for Airbnb host to increase revenue and profit 
 
-2. boston_airbnb_plot.ipynb conducts data wrangling, feature engineerning, and model regression. Some interesting findings are obtained through this study and summarized in the post of results section.
+2. airbnb-github-v01.ipynb conducts data wrangling, feature engineerning, and model regression. Some interesting findings are obtained through this study and summarized in the post of results section.
 
 ## Results<a name="results"></a>
 
